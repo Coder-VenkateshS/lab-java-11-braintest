@@ -72,12 +72,9 @@
       </form>
   
    
-
-
-
 <footer class="footer">
 
 </footer>
-<script type="text/javascript" type="text/javascript" src="/Week-1-Day-1-Lab-1/appscript/script.js"></script>
+<script type="text/javascript" type="text/javascript" src="./appscript/script.js"></script>
 </body>
 </html>
